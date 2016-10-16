@@ -6,6 +6,7 @@ Edit the DRIVER part of the code for predicting the values
 
 output of this code
 
+```
 $ ./Fruits
 Whats the weight? 160
 smooth(0) or bumpy(1)? 0
@@ -42,3 +43,4 @@ $ ./Fruits
 Whats the weight? 160
 smooth(0) or bumpy(1)? 0
 apple
+```
